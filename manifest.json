@@ -1,0 +1,32 @@
+{
+  "item": {
+    "name": "勇者指令：地下城",
+    "description": "《勇者指令：地下城》是由奇点团队开发的原创回合制jrpg游戏。\n玩家将扮演勇者，在地下城展开冒险。游戏提供六大特色职业供玩家搭配，每个职业均有独特战斗定位。 战斗中支持普攻、技能、大招、切换技四段操作，配合热力点、buff机制深化策略；同时角色可通过战斗升级，逐步提升生命值、攻击力等属性，搭配道具进一步强化能力。 游戏还支持云存储功能，确保你的探索进度与小队养成成果不会丢失，在不同设备间无缝衔接。\n\n《勇者指令：地下城》将在10月1日00:00开售",
+    "preview": [
+      "preview.png",
+      "preview1.png",
+      "preview2.png",
+      "preview3.png",
+      "preview4.png",
+      "preview5.png",
+      "preview6.png",
+      "preview7.png",
+      "preview8.png",
+      "preview9.png"
+    ],
+    "icon": "logo.png",
+    "source_url": "",
+    "author": [
+      {
+        "name": "liuyuze61",
+        "author_url": "https://github.com/liuyuze61"
+      }
+    ]
+  },
+  "downloads": {
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "9P_BraveCommand_Dungeons1.0.0.rpk"
+    }
+  }
+}
