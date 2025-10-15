@@ -13,7 +13,9 @@
       "preview7.png",
       "preview8.png",
       "preview9.png",
-      "preview10.png"
+      "preview10.png",
+      "preview11.png",
+      "preview12.png"
     ],
     "icon": "logo.png",
     "source_url": "",
@@ -26,16 +28,20 @@
   },
   "downloads": {
     "n67": {
-      "version": "1.0.1",
-      "file_name": "9P_BraveCommand_Dungeons1.0.1.rpk"
+      "version": "1.0.2",
+      "file_name": "9P_BraveCommand_Dungeons1.0.2.rpk"
     },
     "o65m": {
-      "version": "1.0.1",
-      "file_name": "rw5_BraveCommand_Dungeons1.0.1.rpk"
+      "version": "1.0.2",
+      "file_name": "rw5_BraveCommand_Dungeons1.0.2.rpk"
     },
     "o65": {
-      "version": "1.0.1",
-      "file_name": "rw5_BraveCommand_Dungeons1.0.1.rpk"
+      "version": "1.0.2",
+      "file_name": "rw5_BraveCommand_Dungeons1.0.2.rpk"
+    },
+    "n66": {
+      "version": "1.0.2",
+      "file_name": "9_BraveCommand_Dungeons1.0.2.rpk"
     }
   }
 }
